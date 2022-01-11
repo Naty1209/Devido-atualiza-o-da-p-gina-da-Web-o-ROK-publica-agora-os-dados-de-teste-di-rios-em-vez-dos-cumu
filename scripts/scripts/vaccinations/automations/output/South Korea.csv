@@ -1,0 +1,48 @@
+location,date,vaccine,total_vaccinations,people_vaccinated,people_fully_vaccinated,source_url
+South Korea,2021-02-25,Oxford/AstraZeneca,0,0,0,http://ncv.kdca.go.kr/
+South Korea,2021-02-26,Oxford/AstraZeneca,18489,18489,0,http://ncv.kdca.go.kr/
+South Korea,2021-02-27,Oxford/AstraZeneca,20322,20322,0,http://ncv.kdca.go.kr/
+South Korea,2021-02-28,Oxford/AstraZeneca,21177,21177,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-02,Oxford/AstraZeneca,87428,87428,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-03,Oxford/AstraZeneca,154421,154421,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-04,Oxford/AstraZeneca,225853,225853,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-05,Oxford/AstraZeneca,296380,296380,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-06,Oxford/AstraZeneca,314656,314656,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech",316865,316865,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech",383346,383346,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech",446941,446941,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech",500635,500635,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech",546277,546277,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech",583658,583658,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech",587884,587884,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech",588958,588958,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech",602150,602150,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech",621734,621734,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech",641331,641331,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech",659475,659475,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech",675426,675426,0,http://ncv.kdca.go.kr/
+South Korea,2021-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech",676900,676587,313,http://ncv.kdca.go.kr/
+South Korea,2021-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech",677200,676607,593,http://ncv.kdca.go.kr/
+South Korea,2021-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech",681443,680560,883,http://ncv.kdca.go.kr/
+South Korea,2021-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech",705110,703612,1498,http://ncv.kdca.go.kr/
+South Korea,2021-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech",735815,733124,2691,http://ncv.kdca.go.kr/
+South Korea,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech",771284,767451,3833,http://ncv.kdca.go.kr/
+South Korea,2021-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech",797506,792274,5232,http://ncv.kdca.go.kr/
+South Korea,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech",799090,793858,5232,http://ncv.kdca.go.kr/
+South Korea,2021-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech",799198,793966,5232,http://ncv.kdca.go.kr/
+South Korea,2021-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech",828599,822448,6151,http://ncv.kdca.go.kr/
+South Korea,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech",860387,852202,8185,http://ncv.kdca.go.kr/
+South Korea,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech",889546,876573,12973,http://ncv.kdca.go.kr/
+South Korea,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech",933924,914069,19855,http://ncv.kdca.go.kr/
+South Korea,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech",979936,953556,26380,http://ncv.kdca.go.kr/
+South Korea,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech",989381,962083,27298,http://ncv.kdca.go.kr/
+South Korea,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech",990094,962730,27364,http://ncv.kdca.go.kr/
+South Korea,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech",1027561,999870,27691,http://ncv.kdca.go.kr/
+South Korea,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech",1072480,1039066,33414,http://ncv.kdca.go.kr/
+South Korea,2021-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech",1118221,1075574,42647,http://ncv.kdca.go.kr/
+South Korea,2021-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech",1165802,1113666,52136,http://ncv.kdca.go.kr/
+South Korea,2021-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech",1207482,1148060,59422,http://ncv.kdca.go.kr/
+South Korea,2021-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech",1217460,1156950,60510,http://ncv.kdca.go.kr/
+South Korea,2021-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech",1217766,1157255,60511,http://ncv.kdca.go.kr/
+South Korea,2021-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech",1255899,1195342,60557,http://ncv.kdca.go.kr/
+South Korea,2021-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech",1299632,1239065,60567,http://ncv.kdca.go.kr/

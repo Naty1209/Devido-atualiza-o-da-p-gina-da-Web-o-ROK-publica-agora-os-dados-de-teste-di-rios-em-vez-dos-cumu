@@ -1,0 +1,103 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Lithuania,2020-12-27,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,2420,2420,
+Lithuania,2020-12-28,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,5207,5207,
+Lithuania,2020-12-29,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,8194,8194,
+Lithuania,2020-12-30,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,9726,9726,
+Lithuania,2020-12-31,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,9751,9751,
+Lithuania,2021-01-04,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,9752,9752,
+Lithuania,2021-01-05,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,10375,10375,
+Lithuania,2021-01-06,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,13875,13875,
+Lithuania,2021-01-07,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,18030,18030,
+Lithuania,2021-01-08,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,23203,23203,
+Lithuania,2021-01-09,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,23507,23507,
+Lithuania,2021-01-10,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,23510,23510,
+Lithuania,2021-01-11,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,25719,25719,
+Lithuania,2021-01-12,Pfizer/BioNTech,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,27806,27806,
+Lithuania,2021-01-13,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,34040,34040,
+Lithuania,2021-01-14,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,42668,42668,
+Lithuania,2021-01-15,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,49940,49940,
+Lithuania,2021-01-16,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,51043,51043,
+Lithuania,2021-01-17,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,52174,51085,1089
+Lithuania,2021-01-18,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,56689,53927,2762
+Lithuania,2021-01-19,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,62976,56300,6676
+Lithuania,2021-01-20,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,66445,57936,8509
+Lithuania,2021-01-21,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,67994,58847,9147
+Lithuania,2021-01-22,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,68387,59170,9217
+Lithuania,2021-01-23,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,68395,59178,9217
+Lithuania,2021-01-25,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,68497,59280,9217
+Lithuania,2021-01-26,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,71598,61751,9847
+Lithuania,2021-01-27,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,78484,65580,12904
+Lithuania,2021-01-28,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,85555,68966,16589
+Lithuania,2021-01-29,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,93608,71954,21654
+Lithuania,2021-01-30,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,94237,72150,22087
+Lithuania,2021-01-31,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,94245,72158,22087
+Lithuania,2021-02-01,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,97127,73209,23918
+Lithuania,2021-02-02,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,100990,74865,26125
+Lithuania,2021-02-03,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,107779,76494,31285
+Lithuania,2021-02-04,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,117614,78025,39589
+Lithuania,2021-02-05,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,124863,78978,45885
+Lithuania,2021-02-06,"Moderna, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,125589,79047,46542
+Lithuania,2021-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,125686,79049,46637
+Lithuania,2021-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,128337,79275,49062
+Lithuania,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,131184,80350,50834
+Lithuania,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,137333,84868,52465
+Lithuania,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,146376,92606,53770
+Lithuania,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,153654,98908,54746
+Lithuania,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,154100,99354,54746
+Lithuania,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,158742,103303,55439
+Lithuania,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,159273,103624,55649
+Lithuania,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,167517,107993,59524
+Lithuania,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,178836,114497,64339
+Lithuania,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,189281,121632,67649
+Lithuania,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,190290,122579,67711
+Lithuania,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,195762,126477,69285
+Lithuania,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,204387,133997,70390
+Lithuania,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,216053,144740,71313
+Lithuania,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,227870,155617,72253
+Lithuania,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,237843,164556,73287
+Lithuania,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,238542,165224,73318
+Lithuania,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,238952,165634,73318
+Lithuania,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,246482,173019,73463
+Lithuania,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,255810,181750,74060
+Lithuania,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,267713,191447,76266
+Lithuania,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,283065,201675,81390
+Lithuania,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,296997,210986,86011
+Lithuania,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,297622,211469,86153
+Lithuania,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,297623,211469,86154
+Lithuania,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,306515,219400,87115
+Lithuania,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,318374,229893,88481
+Lithuania,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,333972,242935,91037
+Lithuania,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,335108,243395,91713
+Lithuania,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,353006,254012,98994
+Lithuania,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,354751,255044,99707
+Lithuania,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,354775,255068,99707
+Lithuania,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,362747,261917,100830
+Lithuania,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,372942,267469,105473
+Lithuania,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,383467,270166,113301
+Lithuania,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,391814,272935,118879
+Lithuania,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,401057,276107,124950
+Lithuania,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,401791,276590,125201
+Lithuania,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,401823,276602,125221
+Lithuania,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,410026,283451,126575
+Lithuania,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,422868,290622,132246
+Lithuania,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,440416,302752,137664
+Lithuania,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,457312,312797,144515
+Lithuania,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,473698,322564,151134
+Lithuania,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,476843,325597,151246
+Lithuania,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,477027,325697,151330
+Lithuania,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,484888,331517,153371
+Lithuania,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,497645,338134,159511
+Lithuania,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,518296,351496,166800
+Lithuania,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,536432,366940,169492
+Lithuania,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,556066,379738,176328
+Lithuania,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,564724,387794,176930
+Lithuania,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,567133,390201,176932
+Lithuania,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,570846,393868,176978
+Lithuania,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,585507,405565,179942
+Lithuania,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,598163,417148,181015
+Lithuania,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,624904,438864,186040
+Lithuania,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,658123,468513,189610
+Lithuania,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,673554,483759,189795
+Lithuania,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,675253,485416,189837
+Lithuania,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,683835,493542,190293
+Lithuania,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460,701986,508979,193007

@@ -1,0 +1,59 @@
+location,date,total_vaccinations,vaccine,source_url
+Saudi Arabia,2021-01-06,100000,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-01-07,137862,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-01-11,178337,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-01-17,295530,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-01-29,391643,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-02-01,440618,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-02-07,443153,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-02-11,444465,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-02-14,446940,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-02-16,462812,Pfizer/BioNTech,https://coronamap.sa
+Saudi Arabia,2021-02-18,501710,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-02-24,600798,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-02-25,639587,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-02-26,639587,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-02-28,780667,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-02,885411,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-03,1003287,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-04,1194019,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-05,1264878,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-07,1332740,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-08,1484935,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-09,1640975,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-10,1685881,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-11,1823819,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-12,2007232,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-13,2082780,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-14,2232110,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-15,2336749,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-16,2450781,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-17,2577630,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-18,2692143,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-19,2748646,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-20,2999798,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-21,3189122,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-22,3333125,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-23,3495893,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-24,3646851,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-25,3802995,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-26,3887348,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-27,3995150,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-28,4125466,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-29,4241555,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-30,4319023,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-03-31,4414986,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-01,4571478,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-02,4722340,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-03,4871878,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-04,4994576,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-05,5114583,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-06,5308742,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-07,5567266,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-08,5750046,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-09,5982107,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-10,6122570,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-11,6281357,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-12,6401456,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-13,6499853,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa
+Saudi Arabia,2021-04-14,6561241,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronamap.sa

@@ -1,0 +1,53 @@
+date,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,location,vaccine
+2021-02-08,https://www.asgam.com/index.php/2021/02/11/macau-vaccinates-first-595-residents-as-more-than-4000-register/,0,,,Macao,Sinopharm/Beijing
+2021-02-09,https://www.asgam.com/index.php/2021/02/11/macau-vaccinates-first-595-residents-as-more-than-4000-register/,595,,,Macao,Sinopharm/Beijing
+2021-02-17,https://www.macaubusiness.com/residents-will-be-resistant-to-vaccination-at-first-health-bureau-doctors-association-president/,2000,,,Macao,Sinopharm/Beijing
+2021-02-22,https://www.gov.mo/zh-hant/news/366405/,3700,,,Macao,Sinopharm/Beijing
+2021-02-24,https://www.gov.mo/zh-hant/news/366595/,9284,,,Macao,Sinopharm/Beijing
+2021-02-25,https://www.gov.mo/zh-hant/news/366747/,10691,,,Macao,Sinopharm/Beijing
+2021-02-26,https://www.gov.mo/zh-hant/news/366898/,11982,,,Macao,Sinopharm/Beijing
+2021-02-28,https://www.gov.mo/zh-hant/news/366973/,14426,,,Macao,Sinopharm/Beijing
+2021-03-01,https://www.gov.mo/zh-hant/news/367211/,15094,,,Macao,Sinopharm/Beijing
+2021-03-02,https://www.gov.mo/zh-hant/news/367552/,16044,,,Macao,Sinopharm/Beijing
+2021-03-03,https://www.gov.mo/zh-hant/news/367675/,17071,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-04,https://www.gov.mo/zh-hant/news/367797/,18098,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-05,https://www.gov.mo/zh-hant/news/367971/,19028,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-06,https://www.gov.mo/zh-hant/news/367988/,20218,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-07,https://www.gov.mo/zh-hant/news/368017/,21056,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-08,https://www.gov.mo/zh-hant/news/368091/,21840,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-09,https://www.gov.mo/zh-hant/news/368251/,22865,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-10,https://www.gov.mo/zh-hant/news/368355/,24040,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-11,https://www.gov.mo/zh-hant/news/368525/,25394,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-12,https://www.gov.mo/zh-hant/news/368822/,26440,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-13,https://www.gov.mo/zh-hant/news/368881/,27637,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-14,https://www.gov.mo/zh-hant/news/368936/,28767,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-15,https://www.gov.mo/zh-hant/news/369127/,29833,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-16,https://www.gov.mo/zh-hant/news/369269/,30913,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-17,https://www.gov.mo/zh-hant/news/369435/,31867,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-18,https://www.gov.mo/zh-hant/news/369543/,32841,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-19,https://www.gov.mo/zh-hant/news/369746/,33927,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-20,https://www.gov.mo/zh-hant/news/369786/,35271,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-21,https://www.gov.mo/zh-hant/news/369806/,36459,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-22,https://www.gov.mo/zh-hant/news/369918/,37707,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-23,https://www.gov.mo/zh-hant/news/370103/,39257,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-24,https://www.gov.mo/zh-hant/news/370363/,40701,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-25,https://www.gov.mo/zh-hant/news/370483/,41948,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-26,https://www.gov.mo/zh-hant/news/370703/,43211,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-27,https://www.gov.mo/zh-hant/news/370776/,44908,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-28,https://www.gov.mo/zh-hant/news/370821/,46286,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-29,https://www.gov.mo/zh-hant/news/371037/,47483,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-30,https://www.gov.mo/zh-hant/news/371234/,49308,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-03-31,https://www.gov.mo/zh-hant/news/371579/,51017,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-01,https://www.gov.mo/zh-hant/news/372183/,52772,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-02,https://www.gov.mo/zh-hant/news/372234/,53626,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-03,https://www.gov.mo/zh-hant/news/372274/,54704,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-04,https://www.gov.mo/zh-hant/news/372281/,55951,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-05,https://www.gov.mo/zh-hant/news/372290/,56530,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-06,https://www.gov.mo/zh-hant/news/372303/,57251,,,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-07,https://www.gov.mo/zh-hant/news/372612/,58676,41117,17559,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-08,https://www.gov.mo/zh-hant/news/372680/,60778,41914,18864,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-09,https://www.gov.mo/zh-hant/news/372797/,62893,42802,20091,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-10,https://www.gov.mo/zh-hant/news/372866/,65514,43967,21547,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-11,https://www.gov.mo/zh-hant/news/372906/,67431,44838,22593,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-12,https://www.gov.mo/zh-hant/news/372985/,69149,45648,23501,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"
+2021-04-13,https://www.gov.mo/zh-hant/news/373074/,71196,46732,24464,Macao,"Sinopharm/Beijing, Pfizer/BioNTech"

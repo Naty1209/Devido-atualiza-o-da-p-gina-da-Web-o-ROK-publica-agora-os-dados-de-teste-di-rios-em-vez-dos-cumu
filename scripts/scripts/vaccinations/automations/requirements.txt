@@ -1,0 +1,13 @@
+beautifulsoup4==4.9.3
+chromedriver-binary==87.0.4280.88.0
+dateparser==1.0.0
+pandas==1.2.1
+pdfreader==0.1.10 
+PyPDF2==1.26.0
+pytz==2020.5
+selenium==3.141.0
+tabula-py==2.2.0
+lxml>=4.6.3
+requests==2.25.1
+openpyxl==3.0.7
+gsheets==0.5.1

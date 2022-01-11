@@ -1,0 +1,60 @@
+date,total_vaccinations,people_vaccinated,people_fully_vaccinated,vaccine,location,source_url
+2021-02-15,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-16,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-17,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-18,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-19,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-20,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-21,0.0,0.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-22,20.0,20.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-23,2879.0,2879.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-24,6908.0,6908.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-25,17500.0,17500.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-26,25000.0,25000.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-27,30000.0,30000.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-02-28,31894.0,31894.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-01,33702.0,33702.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-02,41907.0,41907.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-03,50840.0,50840.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-04,61008.0,61008.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-05,71867.0,71867.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-06,76940.0,76940.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-07,81345.0,81345.0,0.0,Pfizer/BioNTech,Australia,https://covidlive.com.au/vaccinations
+2021-03-08,86369.0,86369.0,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-09,94908.0,94908.0,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-10,106200.0,106200.0,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-11,125000.0,125000.0,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-12,135103.0,135103.0,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-13,159294.0,159294.0,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-14,162551.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-15,164781.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-16,182437.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-17,203557.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-18,226057.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-19,240754.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-20,253831.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-21,257019.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-22,282184.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-23,307525.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-24,355254.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-25,408410.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-26,460155.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-27,506465.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-28,511520.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-29,541761.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-30,597523.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-03-31,670349.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-01,744328.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-02,823611.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-03,828416.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-04,843182.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-05,844309.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-06,854983.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-07,920334.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-08,996145.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-09,1077511.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-10,1138866.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-11,1166568.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-12,1178302.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-13,1234681.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
+2021-04-14,1295672.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Australia,https://covidlive.com.au/vaccinations
